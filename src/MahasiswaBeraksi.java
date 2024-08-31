@@ -3,7 +3,7 @@
  */
 public class MahasiswaBeraksi {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
         Mahasiswa m =new Mahasiswa();
         m.nama = "Budi";
         m.membaca();
